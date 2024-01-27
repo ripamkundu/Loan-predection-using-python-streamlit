@@ -1,0 +1,19 @@
+{
+    "Educations": "Matric",
+    "Area": "Urban",
+    "Married_Status": "Married",
+    "Criminal_Status": "No",
+    "Employed_type": "Business",
+    "Spouse_Education": "Gradutation",
+    "Gender": "Male",
+    "Age": "30-40",
+    "Dependents": "1",
+    "City_Type": "City",
+    "Home": "Owned",
+    "Vehicle": "Wheeler_2",
+    "Income": "50000-75000",
+    "Cibil": "700-900",
+    "Spouse_Income": "25000-50000",
+    "Pin_code": "allowed",
+    "City_Name": "allowed"
+}
